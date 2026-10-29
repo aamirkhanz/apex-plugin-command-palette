@@ -1,7 +1,7 @@
 {
   "name": "Command Palette",
   "version": "1.0",
-  "description": "<p>A Ctrl+K search box that finds any page or command in your app and runs it from the keyboard.</p><p>Commands: rows of the region source (title, link, group, icon, description, keywords, shortcut, value, action), plus the app's Navigation Menu as the user sees it and, optionally, the page's apex.actions. JavaScript can add commands with their own function. Search: fuzzy matching on titles, paths, descriptions and keywords, with the matched letters highlighted; recently used commands come first. Running a command: opens its link, invokes its apex.actions action, sets Set Item and fires Command Palette - Command Selected for Dynamic Actions.</p><p>Requires Oracle APEX 26.2 or later. Documentation, updates and more plug-ins: https://www.techrevx.com</p>",
+  "description": "<p>A Ctrl+K search box that finds any page or command in your app and runs it from the keyboard.</p><p>Commands: rows of the region source (title, link, group, icon, description, keywords, shortcut, value, action), plus the app's Navigation Menu as the user sees it and, optionally, the page's apex.actions. JavaScript can add commands with their own function. Search: fuzzy matching on titles, paths, descriptions and keywords, with the matched letters highlighted; recently used commands come first. Running a command: opens its link, invokes its apex.actions action, sets Set Item and fires Command Palette - Command Selected for Dynamic Actions.</p><p>Live demo: https://oracleapex.com/ords/r/aamirkhanz/plugins/command-palette (user demo, password Demo).</p><p>Requires Oracle APEX 26.2 or later. Documentation, updates and more plug-ins: https://www.techrevx.com</p>",
   "keywords": [
     "oracle",
     "apex",
@@ -40,6 +40,7 @@
       "plugin": {
         "internalName": "COM.TECHREVX.COMMAND_PALETTE",
         "type": "region",
+        "demo": "https://oracleapex.com/ords/r/aamirkhanz/plugins/command-palette",
         "previewImage": "https://raw.githubusercontent.com/aamirkhanz/apex-plugin-command-palette/main/screenshots/preview.png"
       }
     }
