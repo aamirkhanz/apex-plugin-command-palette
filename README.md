@@ -2,16 +2,15 @@
 
 A Ctrl+K search box that finds any page or command in your app and runs it from the keyboard.
 
-![Command Palette](screenshots/preview.png)
+[![Live demo](https://img.shields.io/badge/Live_demo-0f7b72?style=for-the-badge)](https://oracleapex.com/ords/r/aamirkhanz/plugins/command-palette) &nbsp; Sign in as `demo` with the password `Demo`.
 
-**[Live demo](https://oracleapex.com/ords/r/aamirkhanz/plugins/command-palette)**: sign in as `demo` with the password `Demo`.
+![Command Palette](screenshots/preview.png)
 
 | | |
 |---|---|
 | **Type** | Region plug-in |
 | **Internal name** | `COM.TECHREVX.COMMAND_PALETTE` |
 | **Version** | 1.0 |
-| **Live demo** | [oracleapex.com/ords/r/aamirkhanz/plugins/command-palette](https://oracleapex.com/ords/r/aamirkhanz/plugins/command-palette) (user `demo`, password `Demo`) |
 | **Requires** | Oracle APEX 26.2 or later |
 | **License** | MIT |
 
