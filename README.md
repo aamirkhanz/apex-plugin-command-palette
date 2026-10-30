@@ -156,4 +156,4 @@ MIT, see [LICENSE](LICENSE).
 
 ## More plug-ins
 
-Documentation, updates and more plug-ins for Oracle APEX: [www.techrevx.com](https://www.techrevx.com)
+Documentation, updates and more plug-ins for Oracle APEX by [TechRevX](https://www.techrevx.com).
